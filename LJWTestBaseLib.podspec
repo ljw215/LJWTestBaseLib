@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LJWTestBaseLib'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of LJWTestBaseLib.'
+  s.summary          = 'LJWTestBaseLib.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,15 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'LJWTestBaseLib非常好用'
 
-  s.homepage         = 'https://github.com/876107909@qq.com/LJWTestBaseLib'
+  s.homepage         = 'https://github.com/ljw215/LJWTestBaseLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '876107909@qq.com' => 'liujingwei@huobi.com' }
-  s.source           = { :git => 'https://github.com/876107909@qq.com/LJWTestBaseLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ljw215/LJWTestBaseLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
