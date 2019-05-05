@@ -1,0 +1,16 @@
+PODS:
+  - LJWTestBaseLib (0.1.0)
+
+DEPENDENCIES:
+  - LJWTestBaseLib (from `../`)
+
+EXTERNAL SOURCES:
+  LJWTestBaseLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LJWTestBaseLib: 4ee81d7106f395a8f1c8cf47e542b7ecc7f60c3a
+
+PODFILE CHECKSUM: 97ebf8a00ae2464b16bd66de5b587c3e859438eb
+
+COCOAPODS: 1.5.3

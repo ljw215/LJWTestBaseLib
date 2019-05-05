@@ -1,0 +1,6 @@
+framework module LJWTestBaseLib {
+  umbrella header "LJWTestBaseLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

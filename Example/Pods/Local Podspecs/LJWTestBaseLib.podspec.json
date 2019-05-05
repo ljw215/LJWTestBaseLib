@@ -1,0 +1,22 @@
+{
+  "name": "LJWTestBaseLib",
+  "version": "0.1.0",
+  "summary": "A short description of LJWTestBaseLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/876107909@qq.com/LJWTestBaseLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "876107909@qq.com": "liujingwei@huobi.com"
+  },
+  "source": {
+    "git": "https://github.com/876107909@qq.com/LJWTestBaseLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LJWTestBaseLib/Classes/**/*"
+}
